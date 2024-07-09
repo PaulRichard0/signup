@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  input{
+    width: 200px;
+    cursor: pointer;
+    border-radius: 6px;
+
+  }
+  input[type="submit"]{
+    background-color: blue;
+    width: fit-content;
+    align-content: center;
+  }
+  body{
+    background-image:url(./_\ \(2\).jpeg)
+  }
+  h1{
+    color: blue;
+    font-style: normal;
+    font-weight: 600;
+  }
